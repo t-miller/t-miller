@@ -30,6 +30,9 @@
   <a href="https://www.ecma-international.org/technical-committees/tc39/">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   </a>
+  <a href="https://www.atlassian.com/software/jira">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+  </a>
   <a href="https://mariadb.org/">
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   </a>
