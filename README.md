@@ -14,6 +14,12 @@
   <br />
 </div>
 
+<div align='center'>
+
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=t-miller&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
 <h2 align='center'>Technologies I Use</h2>
 <h3 align='center'>Professionally</h3>
 <div align='center'>
