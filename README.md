@@ -14,10 +14,6 @@
   <br />
 </div>
 
-<div align='center'>  
-  <img src="https://github-readme-stats.vercel.app/api?username=t-miller&show_icons=true&count_private=true&theme=dark">
-</div>
-
 <h2 align='center'>Technologies I Use</h2>
 <h3 align='center'>Professionally</h3>
 <div align='center'>
