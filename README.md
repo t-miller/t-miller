@@ -6,14 +6,6 @@
   A web developer from Toronto, ON, 🇨🇦 
 </p>
 
-<div align='center'>  
-  <a href="https://www.linkedin.com/in/tylerrwmiller/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <br />
-  <br />
-</div>
-
 <h2 align='center'>Technologies I Use</h2>
 <h3 align='center'>Professionally</h3>
 <div align='center'>
