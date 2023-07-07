@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A web developer from Toronto, ON, 🇨🇦 
+  A web developer and solutions architect from Toronto, ON, 🇨🇦 
 </p>
 
 <h2 align='center'>Technologies I Use</h2>
